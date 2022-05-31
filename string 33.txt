@@ -1,0 +1,10 @@
+package massiv;
+
+public class string33 {
+    public static void main(String[] args) {
+        String s1,s2;
+        s1="1234565678";
+        s2="456";
+        System.out.println(s1.replaceFirst(s2,""));
+    }
+}

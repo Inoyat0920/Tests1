@@ -1,0 +1,17 @@
+package massiv;
+
+import java.util.Scanner;
+
+public class string29 {
+    public static void main(String[] args) {
+        Scanner sc =new Scanner(System.in);
+        String a="";
+        String x="C";
+        String s1="Complate";
+        String s2="level";
+        a=s1.replace("C",s2+" C");
+        System.out.println(a);
+
+    }
+}
+s
